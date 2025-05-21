@@ -1,15 +1,3 @@
-<style>
-body {
-  background-image:
-    linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.7)),
-    url('images/ChatGPT%20Image%2021%20de%20mai.%20de%202025,%2019_45_00.png');
-  background-repeat: repeat;
-  background-size: contain;
-  color: black;
-  font-size: 18px;
-}
-</style>
-
 # Características
 
 - A Tulipa Flow, é um projeto inovador da startup Tulipa, que nasceu com a missão de transformar dados do clima e da água em decisões que fazem florescer um futuro sustentável.
@@ -36,3 +24,7 @@ body {
     - Avaliar o potencial de monetização dos insights gerados, criando modelos de negócios baseados em produtos ou serviços derivados do projeto (consultorias, softwares, relatórios personalizados).
     - Desenvolver uma estratégia de entrada no mercado, posicionando a Tulipa como referência em soluções inovadoras para gestão de recursos hídricos e meteorológicos.
     - Estabelecer indicadores de desempenho para mensurar o sucesso do projeto, como redução de custos operacionais, melhoria na eficiência hídrica ou geração de receita com novos clientes.
+
+# Imagens
+
+![Imagens da identidade Tulipa Flow](images/ChatGPT%20Image%2021%20de%20mai.%20de%202025,%2019_45_00.png)
