@@ -1,4 +1,7 @@
 # Tulipa Flow
+
+Este projeto foi inspirado com base nas pesquisas do meu [Trabalho de Conclusão de Curso (TCC)](https://meusestudos.github.io/RedesNeuraisFFNN/) da pós-graduação em Inteligência Artificial e Aprendizado de Máquina, realizado na PUC Minas EaD.
+
 ## Características
 
 - A Tulipa Flow, é um projeto inovador da startup Tulipa, que nasceu com a missão de transformar dados do clima e da água em decisões que fazem florescer um futuro sustentável.
