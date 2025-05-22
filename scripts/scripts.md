@@ -23,11 +23,13 @@ Utilizei apenas o comando `git clone` via terminal - todas as demais operações
 ---
 
 2. Commit
+
 ![Commit](../images/2_CommitChanges.png)
 
 ---
 
 3. Push
+
 ![Push](../images/3_PushCommits.png)
 
 ---
@@ -35,4 +37,5 @@ Utilizei apenas o comando `git clone` via terminal - todas as demais operações
 Depois que ocorreram novas atualizações no arquivo que eu havia clonado no meu computador, antes de recomeçar pela etapa 1 mencionada acima, precisei realizar a etapa da imagem abaixo. Isso porque eu havia feito uma atualização diretamente no GitHub, fazendo com que a versão de lá ficasse diferente da minha. Para evitar conflitos, realizei um pull das alterações.
 
 0. Pull
+
 ![Pull](../images/4_Pull.png)
