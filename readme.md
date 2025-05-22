@@ -1,4 +1,4 @@
-# Tulipa Flow
+# ​🌷​🌦️ Tulipa Flow
 
 Este projeto foi inspirado com base nas pesquisas do meu [Trabalho de Conclusão de Curso (TCC)](https://meusestudos.github.io/RedesNeuraisFFNN/) da pós-graduação em Inteligência Artificial e Aprendizado de Máquina, realizado na PUC Minas EaD.
 
