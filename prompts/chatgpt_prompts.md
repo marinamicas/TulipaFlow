@@ -10,6 +10,6 @@ Acesse a [interação completa](https://chatgpt.com/share/682e6015-e874-8007-ade
 
 3. Produtividade parcial - Por usar a versão gratuita, não consegui concluir toda a análise em um único dia, embora soubesse que poderia enriquecê-la com mais interações posteriormente.
 
-Contudo, optei por finalizar o projeto agora porque o Copilot no VSCode atendeu plenamente às minhas necessidades ao analisar o parágrafo de síntese gerado pelo ChatGPT (como mostra a imagem abaix
+Contudo, optei por finalizar o projeto agora porque o Copilot no VSCode atendeu plenamente às minhas necessidades ao analisar o parágrafo de síntese gerado pelo ChatGPT (como mostra a imagem abaixo).
 
 ![Extensão do Copilot no VSCode em ação](../images/ExtensaoCopilotVSCode.png)
