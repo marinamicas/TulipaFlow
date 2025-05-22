@@ -1,9 +1,10 @@
-# Características
+# Tulipa Flow
+## Características
 
 - A Tulipa Flow, é um projeto inovador da startup Tulipa, que nasceu com a missão de transformar dados do clima e da água em decisões que fazem florescer um futuro sustentável.
 - Conecta inteligência meteorológica e gestão de recursos hídricos.
 
-# Objetivos
+## Objetivos
 
 1. **Objetivos com foco no Especialista em Meteorologia Aplicada**
     - Monitorar e analisar as variáveis climáticas (chuva, temperatura, umidade, vento) da estação de Resende (RJ) para compreender padrões que impactam o volume útil do reservatório de Funil.
@@ -25,6 +26,12 @@
     - Desenvolver uma estratégia de entrada no mercado, posicionando a Tulipa como referência em soluções inovadoras para gestão de recursos hídricos e meteorológicos.
     - Estabelecer indicadores de desempenho para mensurar o sucesso do projeto, como redução de custos operacionais, melhoria na eficiência hídrica ou geração de receita com novos clientes.
 
-# Imagens
+## Acesso rápido
+
+- Recurso de inteligência artificial utilizada: [Prompts](prompts/chatgpt_prompts.md)
+
+- Análise final dos prompts realizados: [Insights](insights/insights.md)
+
+## Imagens
 
 ![Imagens da identidade Tulipa Flow](images/ChatGPT%20Image%2021%20de%20mai.%20de%202025,%2019_45_00.png)
